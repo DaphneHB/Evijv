@@ -1,2 +1,2 @@
-### Mosima
-# MOdélisation et SImulation Multi-Agents (Multi Agent Modelisation and Simulation)
+### EVIJV
+# Envrionnement Virtuel et Interraction de Jeux virtuels
